@@ -1,10 +1,10 @@
-screen parser v1.0
+screen parser v1.0 by 7eliassen
 
 en
 
 screen parser allows you to download photos from lightshot site
 
-you need to run screen parser.py file
+you need just run screen parser.py file
 
 in order to determine the number of photos, you must pass the argument via cmd (default = 25)
 
