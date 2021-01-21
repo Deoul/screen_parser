@@ -6,7 +6,7 @@ screen parser allows you to download photos from lightshot site
 
 you need to run screen parser.py file
 
-in order to determine the number of photos, you must pass the argument via cmd
+in order to determine the number of photos, you must pass the argument via cmd (default = 25)
 
 Example: \ dir> "sreen parser.py" 3
 
@@ -17,7 +17,7 @@ screen parser позволяет вам скачивать фотографии 
 
 вам необходимо просто запустить файл screen parser.py 
 
-для того чтобы определить количество фотографий необходимо передать аргумент через cmd 
+для того чтобы определить количество фотографий необходимо передать аргумент через cmd (по умолчанию 25) 
 
 Пример: \dir>"sreen parser.py" 3  
 
